@@ -33,7 +33,6 @@ Remote AI engineering, tech leadership, founding / early-team roles where AI age
 
 ## Connect
 
-- Portfolio · [jetamin94.github.io/thangnguyen.dev](https://jetamin94.github.io/thangnguyen.dev/)
 - LinkedIn · [thangnv1509](https://www.linkedin.com/in/thangnv1509/)
 - X · [@Jetamin](https://x.com/Jetamin)
 - Email · jetamin94@gmail.com
