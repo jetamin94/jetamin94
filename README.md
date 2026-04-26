@@ -2,8 +2,6 @@
 
 Tech Lead turning LLMs into shipping product. Currently dual-hatted: **Head of IT @ Dược Vương Pharmaceutical** and **Technical Consultant @ Ecolab** (remote). Building agentic AI in production.
 
-→ Portfolio: **[jetamin94.github.io/thangnguyen.dev](https://jetamin94.github.io/thangnguyen.dev/)**
-
 ## What I'm shipping
 
 - **quote-automation** — LLM-powered VIP pharma pricing engine deployed as a Microsoft Teams bot. 42s → 4s with TF-IDF prefilter + waterfall logic + Bot Framework proactive messaging.
