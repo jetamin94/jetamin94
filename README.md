@@ -1,38 +1,43 @@
-# Thang Nguyen — Jet
+# Thang Nguyen — Tech Lead turning LLMs into shipping product
 
-Tech Lead turning LLMs into shipping product. Currently dual-hatted: **Head of IT @ Dược Vương Pharmaceutical** and **Technical Consultant @ Ecolab** (remote). Building agentic AI in production.
+Head of IT at Duoc Vuong Pharmaceutical and Technical Consultant at Ecolab. I build production AI agents, data platforms, enterprise integrations, and automation systems.
 
-## What I'm shipping
+Portfolio: [thangnguyen.org](https://thangnguyen.org/)
 
-- **quote-automation** — LLM-powered VIP pharma pricing engine deployed as a Microsoft Teams bot. 42s → 4s with TF-IDF prefilter + waterfall logic + Bot Framework proactive messaging.
-- **clawwork** — multi-agent AI SaaS platform (Starter / Pro / Business). Phase 1 live.
-- **helphub** — internal IT help desk. Next.js + SQLite, Odoo HRM integration, auto-improve / auto-close cron in production.
-- **hermes / marcus** — multi-platform messaging gateway giving AI agents Discord, Telegram, and direct-IPC presence.
-- **jashboard** — read-only observation deck over agent memory and a compounding markdown wiki.
-- **agent-dream** — npm package for memory consolidation via dream states.
+## Featured work
 
-Most repos stay private. The portfolio has live links and case studies.
+- **Agentic AI Reliability** — production patterns for making AI agents safer, more persistent, and more useful inside real operations.
+- **Quote Automation** — LLM-powered VIP pharma pricing engine deployed as a Microsoft Teams bot. Cut manual quote latency from 42s to 4s with TF-IDF prefiltering, deterministic waterfall pricing logic, and Bot Framework proactive messaging.
+- **Enterprise AI Integration** — AI and automation across ERP, HRM, CRM, eCommerce, reporting, and internal operations.
+- **BI / Data Platform Modernization** — Metabase dashboards and reporting marts backed by PostgreSQL materialized views, freshness tracking, and a ClickHouse/dbt/Airflow analytics pilot.
+- **HelpHub** — AI-driven IT help desk for Duoc Vuong with Odoo HRM integration, auto-improve flows, and auto-close cron jobs.
+- **Accounting Tools Suite** — zero-dependency Node.js internal tools suite managing 33,261 accounting vouchers.
+
+Most production work is private, so the portfolio summarizes systems, architecture, and impact without exposing company data.
 
 ## Stack
 
-**Languages:** Node.js · TypeScript · JavaScript · C# / .NET
-**AI / Agents:** LLM integration · Multi-agent systems · MCP · Prompt engineering · Bot Framework
-**Cloud:** AWS (Lambda, EC2, CloudWatch) · GitHub Actions · VPS
-**Data:** MongoDB · SQLite · REST APIs
-**Observability:** AppDynamics · Elastic · Datadog
+**AI / Agents:** LLM integration · Multi-agent systems · Agentic AI reliability · Cross-session memory · MCP · Prompt engineering · Prompt injection defense · Bot Framework  
+**Backend / Product:** Node.js · TypeScript · Next.js · SQLite · PostgreSQL · REST APIs  
+**Data / BI:** Metabase · PostgreSQL reporting marts · Materialized views · Airflow · dbt · ClickHouse  
+**Cloud / Observability:** AWS · AppDynamics · Elastic Observability · Swimlane · Datadog · GitHub Actions  
+**Leadership:** Digital transformation · Enterprise integration · Team building · IT roadmap ownership
 
 ## Background
 
-10+ years across full-stack engineering, cloud infrastructure, and IT leadership. Started 2015 as a web developer, scaled into senior backend at FPT Software (Temando logistics on Node.js + AWS Lambda), then PM running Datadog/AWS observability for Ecolab. Since 2024, Head of IT at Dược Vương running digital transformation end-to-end — defined IT vision, built ~30-person in-house team, deployed ERP / CRM / HRM / LMS, launched a pharmaceutical eCommerce platform + mobile app.
+10+ years across full-stack engineering, cloud infrastructure, enterprise observability, and IT leadership. Started as a web developer, scaled into senior backend engineering at FPT Software, then project management and observability programs before leading IT and digital transformation at Duoc Vuong Pharmaceutical.
 
-**Elastic Certified Observability Engineer** (Nov 2024). Top 100 FPT Software Award (2019). FPT University, Engineer's degree (2012–2016).
+Current work spans production AI agents, ERP/HRM/CRM/eCommerce integration, BI/data platforms, secure enterprise automation, and global observability operations for Ecolab.
+
+**Elastic Certified Observability Engineer** (Nov 2024 - Nov 2026). Top 100 FPT Software Award (2019). FPT University, Engineer's degree (2012 - 2016).
 
 ## Open to
 
-Remote AI engineering, tech leadership, founding / early-team roles where AI agents meet real business operations.
+Remote AI engineering, AI automation lead, solution architecture, tech leadership, or founding / early-team roles where AI agents meet real business operations.
 
 ## Connect
 
+- Email · thangnv1509@gmail.com
 - LinkedIn · [thangnv1509](https://www.linkedin.com/in/thangnv1509/)
 - X · [@Jetamin](https://x.com/Jetamin)
-- Email · jetamin94@gmail.com
+- GitHub · [jetamin94](https://github.com/jetamin94)
