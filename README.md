@@ -2,8 +2,6 @@
 
 Head of IT at Duoc Vuong Pharmaceutical and Technical Consultant at Ecolab. I build production AI agents, data platforms, enterprise integrations, and automation systems.
 
-Portfolio: [thangnguyen.org](https://thangnguyen.org/)
-
 ## Featured work
 
 - **Agentic AI Reliability** — production patterns for making AI agents safer, more persistent, and more useful inside real operations.
@@ -31,13 +29,5 @@ Current work spans production AI agents, ERP/HRM/CRM/eCommerce integration, BI/d
 
 **Elastic Certified Observability Engineer** (Nov 2024 - Nov 2026). Top 100 FPT Software Award (2019). FPT University, Engineer's degree (2012 - 2016).
 
-## Open to
-
-Remote AI engineering, AI automation lead, solution architecture, tech leadership, or founding / early-team roles where AI agents meet real business operations.
-
 ## Connect
-
-- Email · thangnv1509@gmail.com
-- LinkedIn · [thangnv1509](https://www.linkedin.com/in/thangnv1509/)
 - X · [@Jetamin](https://x.com/Jetamin)
-- GitHub · [jetamin94](https://github.com/jetamin94)
