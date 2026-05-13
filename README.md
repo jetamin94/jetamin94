@@ -1,6 +1,6 @@
 # Thang Nguyen — Tech Lead shipping production AI agents
 
-Head of IT at Duoc Vuong Pharmaceutical and Technical Consultant at Ecolab. I build production AI agents, data platforms, enterprise integrations, and automation systems.
+Head of IT & R&D Manager at Duoc Vuong Pharmaceutical and Technical Consultant at Ecolab. I build production AI agents, data platforms, enterprise integrations, and automation systems.
 
 ## Featured work
 
@@ -19,11 +19,11 @@ Most production work is private, so the portfolio summarizes systems, architectu
 **AI / Agents:** LLM integration · Multi-agent systems · Agentic AI reliability · Cross-session memory · MCP · Prompt engineering · Prompt injection defense · Bot Framework  
 **Data / BI:** PostgreSQL · Metabase · Materialized views · Airflow · dbt · ClickHouse · SQLite  
 **Enterprise Integration:** ERP · HRM · LMS · CRM · eCommerce · Node.js · TypeScript · Next.js · AWS · AppDynamics · Elastic Observability · Swimlane · Datadog  
-**Leadership:** Digital transformation · IT roadmap · Solution architecture · Team building · Enterprise operations
+**Leadership:** Digital transformation · R&D management · IT roadmap · Solution architecture · Team building · Enterprise operations
 
 ## Background
 
-10+ years across full-stack engineering, cloud infrastructure, enterprise observability, and IT leadership. Started as a web developer, scaled into senior backend engineering at FPT Software, then project management and observability programs before leading IT and digital transformation at Duoc Vuong Pharmaceutical.
+10+ years across full-stack engineering, cloud infrastructure, enterprise observability, IT leadership, and applied R&D. Started as a web developer, scaled into senior backend engineering at FPT Software, then project management and observability programs before leading IT, applied R&D, and digital transformation at Duoc Vuong Pharmaceutical.
 
 Current work spans production AI agents, ERP/HRM/CRM/eCommerce integration, BI/data platforms, secure enterprise automation, and global observability operations for Ecolab.
 
