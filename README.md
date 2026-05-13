@@ -1,4 +1,4 @@
-# Thang Nguyen — Tech Lead turning LLMs into shipping product
+# Thang Nguyen — Tech Lead shipping production AI agents
 
 Head of IT at Duoc Vuong Pharmaceutical and Technical Consultant at Ecolab. I build production AI agents, data platforms, enterprise integrations, and automation systems.
 
@@ -7,6 +7,7 @@ Head of IT at Duoc Vuong Pharmaceutical and Technical Consultant at Ecolab. I bu
 - **Agentic AI Reliability** — production patterns for making AI agents safer, more persistent, and more useful inside real operations.
 - **Quote Automation** — LLM-powered VIP pharma pricing engine deployed as a Microsoft Teams bot. Cut manual quote latency from 42s to 4s with TF-IDF prefiltering, deterministic waterfall pricing logic, and Bot Framework proactive messaging.
 - **Enterprise AI Integration** — AI and automation across ERP, HRM, CRM, eCommerce, reporting, and internal operations.
+- **ERP / HRM / LMS Platforms** — enterprise systems for purchase-to-pay, order-to-cash, accounting, inventory, logistics, employee records, approvals, onboarding, training assignments, and completion tracking.
 - **BI / Data Platform Modernization** — Metabase dashboards and reporting marts backed by PostgreSQL materialized views, freshness tracking, and a ClickHouse/dbt/Airflow analytics pilot.
 - **HelpHub** — AI-driven IT help desk for Duoc Vuong with Odoo HRM integration, auto-improve flows, and auto-close cron jobs.
 - **Accounting Tools Suite** — zero-dependency Node.js internal tools suite managing 33,261 accounting vouchers.
@@ -16,10 +17,9 @@ Most production work is private, so the portfolio summarizes systems, architectu
 ## Stack
 
 **AI / Agents:** LLM integration · Multi-agent systems · Agentic AI reliability · Cross-session memory · MCP · Prompt engineering · Prompt injection defense · Bot Framework  
-**Backend / Product:** Node.js · TypeScript · Next.js · SQLite · PostgreSQL · REST APIs  
-**Data / BI:** Metabase · PostgreSQL reporting marts · Materialized views · Airflow · dbt · ClickHouse  
-**Cloud / Observability:** AWS · AppDynamics · Elastic Observability · Swimlane · Datadog · GitHub Actions  
-**Leadership:** Digital transformation · Enterprise integration · Team building · IT roadmap ownership
+**Data / BI:** PostgreSQL · Metabase · Materialized views · Airflow · dbt · ClickHouse · SQLite  
+**Enterprise Integration:** ERP · HRM · LMS · CRM · eCommerce · Node.js · TypeScript · Next.js · AWS · AppDynamics · Elastic Observability · Swimlane · Datadog  
+**Leadership:** Digital transformation · IT roadmap · Solution architecture · Team building · Enterprise operations
 
 ## Background
 
